@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm a high school student studying Cybernetic Security in Dvůr Králové<br>I am currently learning about mobile apps and backends.<br>
+Hey, I'm a high school student studying Cybernetic Security at Dvůr Králové<br>I am currently learning about mobile apps and backends.<br>
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@ Hey, I'm a high school student studying Cybernetic Security in Dvůr Králové<b
 ## What I'm learning:
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  ## What I use:
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+ ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damiska21&theme=synthwave&hide_border=true)<br/>
 
