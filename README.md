@@ -3,10 +3,10 @@ I'm a high school student studying 4th year Cybernetic Security at SPOŠ Dvůr K
 
 
 # 💻 Tech Stack:
-Pretty comfortable with HTML, CSS, JS, console and forms C#<br>
-Basic knowledge of Java and Python<br>
-Currently learning React + React Native, with some simple backends (used SQLite and Springboot + PostgreSQL)
+Pretty comfortable with HTML, JS, console and forms C#<br>
+Basic knowledge of Java, Python, React<br>
+Currently not motivated for any project, working more on cybernetics and hacking stuff.
 
 ## Setup
-I currently use Linux, btw. NixOS + Hyprland<br>
-Random stuff I use: VScodium, zsh, kanata, obsidian (i love markdowns)
+I currently use Linux, btw. NixOS + Hyprland (dotfiles in pinned repo)<br>
+Random stuff I use: Cursor (when i have tokens :D)/VScodium, zsh, kanata, obsidian (i love markdowns)
