@@ -14,4 +14,3 @@ Random stuff I use: Cursor (when i have tokens :D)/VScodium, zsh, kanata, obsidi
 Write to me anywhere you can find me with anything you want (currently looking for jobs in cybersecurity/IT :) )<br>
 Discord @damiska (message first, don't add me randomly)<br>
 LinkedIn https://www.linkedin.com/in/damian-rohacek/<br>
-Signal @damiska.32 (same as with discord)
